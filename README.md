@@ -3,7 +3,7 @@ blocks the slop on youtube, for the Chrome web browser
 
 # Privacy Policy for YouTube Slop Block
 
-**Last Updated: November 27, 2025**
+**Last Updated: December 19, 2025**
 
 ## Overview
 
@@ -103,4 +103,4 @@ For privacy concerns or data deletion requests, please open an issue on our GitH
 
 ## Open Source
 
-This extension is currently under early active development. It will be released once it's available to the general public (currently closed testing only)
+This extension is currently under early active development. It will be released once it's stable (v1.0.0)
